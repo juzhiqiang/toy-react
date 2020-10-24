@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "server main.js"
+    "dev": "server main.js",
+    "build": "npx webpack"
   },
   "keywords": [],
   "author": "",
